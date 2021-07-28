@@ -1,1 +1,1 @@
-An interactive mathematics game checking how well the users know their multiplication tables built using HTML, CSS and JavaScript.
+An interactive mathematics game checking how well the users know their multiplication tables built using HTML, CSS and JavaScript. At the end of the test, the user is issued a score equal to the number of correct answers submitted during the game. Each question comes with multiple answers; only one is correct.
